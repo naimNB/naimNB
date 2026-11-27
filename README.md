@@ -41,8 +41,8 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="https://github.com/bynaim">
-    <img src="https://img.shields.io/badge/GitHub-bynaim-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <a href="https://github.com/naimNB">
+    <img src="https://img.shields.io/badge/GitHub-naimNB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/in/md-naim-00a164381/">
     <img src="https://img.shields.io/badge/LinkedIn-Md%20Naim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
@@ -237,12 +237,12 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bynaim&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Naim's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bynaim&theme=tokyonight&hide_border=true&layout=compact" alt="Naim's most-used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=naimNB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Naim's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimNB&theme=tokyonight&hide_border=true&layout=compact" alt="Naim's most-used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bynaim&theme=tokyonight&hide_border=true" alt="Naim's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=naimNB&theme=tokyonight&hide_border=true" alt="Naim's GitHub streak" />
 </p>
 
 ---
@@ -250,7 +250,7 @@
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bynaim&theme=tokyonight&row=1&column=7&margin-w=8&no-frame=true" alt="Naim's GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naimNB&theme=tokyonight&row=1&column=7&margin-w=8&no-frame=true" alt="Naim's GitHub trophies" />
 </p>
 
 ---
@@ -258,7 +258,7 @@
 ## GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bynaim&theme=tokyo-night&area=true&hide_border=true&custom_title=Naim%27s%20GitHub%20Activity" width="100%" alt="Naim's GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimNB&theme=tokyo-night&area=true&hide_border=true&custom_title=Naim%27s%20GitHub%20Activity" width="100%" alt="Naim's GitHub activity graph" />
 </p>
 
 ---
@@ -266,7 +266,7 @@
 ## Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bynaim&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Naim's top contributed repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=naimNB&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Naim's top contributed repositories" />
 </p>
 
 ---
@@ -274,7 +274,7 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bynaim/naimNB/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/naimNB/naimNB/output/github-snake-dark.svg" alt="GitHub contribution snake animation" />
 </p>
 
 ---
@@ -283,8 +283,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bynaim/naimNB/main/profile-3d-contrib/profile-night-green.svg">
-    <img width="850" src="https://raw.githubusercontent.com/bynaim/naimNB/main/profile-3d-contrib/profile-green.svg" alt="Naim's 3D contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naimNB/naimNB/main/profile-3d-contrib/profile-night-green.svg">
+    <img width="850" src="https://raw.githubusercontent.com/naimNB/naimNB/main/profile-3d-contrib/profile-green.svg" alt="Naim's 3D contribution graph" />
   </picture>
 </p>
 
@@ -295,7 +295,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bynaim&icon=0&color=1" alt="Profile visit counter" />
+  <img src="https://visitcount.itsvg.in/api?id=naimNB&icon=0&color=1" alt="Profile visit counter" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:22C55E&height=120&section=footer" width="100%" alt="Footer" />
